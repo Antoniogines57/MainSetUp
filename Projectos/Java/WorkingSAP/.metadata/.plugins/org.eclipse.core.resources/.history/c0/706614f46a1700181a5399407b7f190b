@@ -1,0 +1,14 @@
+package joptionpane;
+
+import java.util.Scanner;
+
+import javax.swing.JOptionPane;
+
+public class PublicSte {
+	Scanner newMeta=new Scanner(System.in);
+	public static void main(String[]args) {
+		do {
+			String i=JOptionPane.showInputDialog("Introduce un numero: ");
+		} while(i.equals("6")==false)
+	}
+}

@@ -1,0 +1,14 @@
+package com.goingbetter.soloLearning;
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class Collectionsss {
+	public static void main(String[]args) {
+		ArrayList<String> methods=new ArrayList<String>();
+		String[]m= {"Pablo","Pedro","Armando","Loco","Uriel","Antonio","Oscar","Angela","Laura","Paula","Ana"};
+		methods.addAll(0, m)ç;
+		Collections.sort(methods);
+	}
+	
+	
+}

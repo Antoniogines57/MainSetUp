@@ -1,0 +1,15 @@
+package com.goingbetter.soloLearning;
+
+public class INTERTE {
+	public static void main(Figura o) {
+		if(o instanceof Elipse) {
+			System.out.println("Es una elipse.");
+		}else if(o instanceof Circulo) {
+			System.out.println("Es un ciruculo.");
+		}else if(o instanceof Figura) {
+			System.out.println("Es una figura");
+		}else {
+			System.out.println("No es una figura. ");
+		}
+	}
+}

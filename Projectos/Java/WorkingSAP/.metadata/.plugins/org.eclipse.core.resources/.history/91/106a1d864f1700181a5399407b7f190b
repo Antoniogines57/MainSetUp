@@ -1,0 +1,10 @@
+package main;
+
+public class PublicTest {
+	String hello="hello";
+	char[] ma=hello.toCharArray();
+	int[] me=new int[ma.length];
+	for(int i=0;i<me.length;i++) {
+		me[i]=Character.getNumericValue(ma[i]);
+	}
+}

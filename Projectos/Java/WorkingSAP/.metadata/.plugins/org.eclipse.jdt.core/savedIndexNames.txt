@@ -1,0 +1,8 @@
+INDEX VERSION 1.130+/home/antonio/WorkingSAP/.metadata/.plugins/org.eclipse.jdt.core
+4102029853.index
+3707603205.index
+1758509137.index
+4122913733.index
+1682763937.index
+1071599969.index
+3106665967.index

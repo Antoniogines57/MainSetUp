@@ -1,0 +1,6 @@
+package arquitectura_aux.compras2;
+
+public interface UI {
+
+	
+}

@@ -1,0 +1,18 @@
+package com.goingbetter.soloLearning;
+
+public class INTERTE {
+	
+	public INTERTE(Object o) {
+		if(o instanceof Integer) {
+			
+		}else if(o instanceof Float) {
+			
+		}else if(o instanceof Double) {
+			
+		}else if(o instanceof String) {
+			
+		}else {
+			
+		}
+	}
+}

@@ -1,0 +1,77 @@
+package seccion23.mundoPC;
+
+import java.util.Scanner;
+
+import seccion23.Computadora;
+import seccion23.Orden;
+
+public class MundoPC {
+	private static Orden[] array=new Orden[100];
+	private static int contador;
+	
+	public static void main(String[]args) {
+		System.out.println(
+				"\n1. Realizar una nueva orden."+
+				"\n2. Aniadir un ordenador."+
+				"\n3. Modificar los componentes de un ordenador. "+
+				"\n4. Calcular el total."+
+				"5. Realizar la operacion."+
+				"6\n. Mostrar la orden."
+				);
+		Scanner i=new Scanner(System.in);
+		int o=0;
+		System.out.println("\nIntroduzca el nº de operacion a realizar");
+		do {
+			o=i.nextInt();
+		} while (o<=0);
+		switch (o) {
+			case 1:
+			{
+				array[contador++]=new Orden();
+				System.out.println("Orden nº: "+(contador-1));
+				break;
+			}
+			case 2:
+			{
+				array[contador-1].addComputadora(new Computadora());
+				break;
+			}
+			case 3:
+			{
+				array[contador-1].mostrarOrden();
+				Scanner m=new Scanner(System.in);
+				System.out.println("introduzca numero de ordenador: ");
+				int a=m.nextInt();
+				array[contador-1].modificarOrdenador(a-1);
+				break;
+			}
+			case 4:{
+				System.out.println("El total es: "+array[contador-1].calcularTotal()+"$.");
+				main(args);
+			}
+			case 5:{
+				//pagar(total)
+				break;
+			}
+			case 6:{
+				array[contador-1].mostrarOrden();
+				main(args);
+			}
+			default:{
+				System.out.println("Numero de op incorrecto, desea reintentar?(s/n)");
+				if(i.nextLine().equals("s")) {
+					main(args);
+				}
+				else FIN();
+			}
+		}
+		System.out.println("Desea realizar otra operacion? (y/n)");
+		if(i.nextLine().equals("y")) {
+			main(args);
+		}
+		else FIN();
+	}
+	public static void FIN() {
+		System.exit(0);
+	}
+}

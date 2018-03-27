@@ -1,0 +1,16 @@
+package joptionpane;
+
+import java.util.Scanner;
+
+import javax.swing.JOptionPane;
+
+public class PublicSte {
+	Scanner newMeta=new Scanner(System.in);
+	public static void main(String[]args) {
+		String i;
+		do {
+			i=JOptionPane.showInputDialog("Introduce un numero: ");
+			if(i.equals("6")==false) System.out.println("Numero incorrecto");
+		} while(i.equals("6")==false);
+	}
+}
