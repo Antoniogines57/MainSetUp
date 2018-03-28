@@ -1,0 +1,1030 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+
+.image-design-modal-gestures-screen-home { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_home_startframe_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-home { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_home_startframe_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-design-modal-gestures-screen-home { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_home_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-home { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_home_startframe_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-gestures-screen-home { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_home_startframe_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-home { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_home_startframe_small_2x.jpg"); }
+}
+.image-design-modal-gestures-screen-home-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_home_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-home-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_home_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-design-modal-gestures-screen-home-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_home_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-home-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_home_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-gestures-screen-home-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_home_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-home-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_home_fallback_small_2x.jpg"); }
+}
+.image-design-modal-gestures-screen-multitask { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_multitask_startframe_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-multitask { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_multitask_startframe_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-design-modal-gestures-screen-multitask { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_multitask_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-multitask { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_multitask_startframe_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-gestures-screen-multitask { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_multitask_startframe_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-multitask { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_multitask_startframe_small_2x.jpg"); }
+}
+.image-design-modal-gestures-screen-multitask-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_multitask_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-multitask-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_multitask_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-design-modal-gestures-screen-multitask-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_multitask_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-multitask-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_multitask_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-gestures-screen-multitask-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_multitask_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-multitask-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_multitask_fallback_small_2x.jpg"); }
+}
+.image-design-modal-gestures-screen-control-center { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_control_center_startframe_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-control-center { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_control_center_startframe_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-design-modal-gestures-screen-control-center { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_control_center_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-control-center { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_control_center_startframe_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-gestures-screen-control-center { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_control_center_startframe_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-control-center { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_control_center_startframe_small_2x.jpg"); }
+}
+.image-design-modal-gestures-screen-control-center-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_control_center_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-control-center-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_control_center_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-design-modal-gestures-screen-control-center-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_control_center_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-control-center-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_control_center_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-gestures-screen-control-center-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_control_center_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-control-center-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_control_center_fallback_small_2x.jpg"); }
+}
+.image-design-modal-gestures-screen-siri { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_siri_startframe_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-siri { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_siri_startframe_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-design-modal-gestures-screen-siri { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_siri_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-siri { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_siri_startframe_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-gestures-screen-siri { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_siri_startframe_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-siri { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_siri_startframe_small_2x.jpg"); }
+}
+.image-design-modal-gestures-screen-siri-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_siri_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-siri-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_siri_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-design-modal-gestures-screen-siri-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_siri_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-siri-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_siri_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-gestures-screen-siri-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_siri_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-siri-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_siri_fallback_small_2x.jpg"); }
+}
+.image-design-modal-gestures-screen-apple-pay { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_apple_pay_startframe_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-apple-pay { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_apple_pay_startframe_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-design-modal-gestures-screen-apple-pay { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_apple_pay_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-apple-pay { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_apple_pay_startframe_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-gestures-screen-apple-pay { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_apple_pay_startframe_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-apple-pay { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_apple_pay_startframe_small_2x.jpg"); }
+}
+.image-design-modal-gestures-screen-apple-pay-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_apple_pay_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-apple-pay-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_apple_pay_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-design-modal-gestures-screen-apple-pay-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_apple_pay_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-apple-pay-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_apple_pay_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-gestures-screen-apple-pay-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_apple_pay_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-gestures-screen-apple-pay-fallback { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_gestures_apple_pay_fallback_small_2x.jpg"); }
+}
+.image-design-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_hero_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-design-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_hero_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-design-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_hero_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-design-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_hero_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_hero_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_hero_small_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_hero_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_hero_small_2x.jpg"); }
+}
+.image-design-modal-expression { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_expression_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-design-modal-expression { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_expression_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-design-modal-expression { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_expression_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-design-modal-expression { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_expression_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-expression { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_expression_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-expression { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_expression_small_2x.jpg"); }
+}
+.image-design-modal-true-tone { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_true_tone_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-design-modal-true-tone { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_true_tone_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-design-modal-true-tone { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_true_tone_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-design-modal-true-tone { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_true_tone_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-design-modal-true-tone { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_true_tone_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-design-modal-true-tone { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/design_true_tone_small_2x.jpg"); }
+}
+.mediaobject-design-primary-super-retina { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_super_retina_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-design-primary-super-retina { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_super_retina_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-design-primary-super-retina { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_super_retina_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-design-primary-super-retina { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_super_retina_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-design-primary-super-retina { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_super_retina_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-design-primary-super-retina { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_super_retina_fallback_small_2x.jpg"); }
+}
+.mediaobject-design-primary-super-retina .mediaobject-element,.mediaobject-design-primary-super-retina .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_super_retina_startframe_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-design-primary-super-retina .mediaobject-element,.mediaobject-design-primary-super-retina .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_super_retina_startframe_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-design-primary-super-retina .mediaobject-element,.mediaobject-design-primary-super-retina .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_super_retina_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-design-primary-super-retina .mediaobject-element,.mediaobject-design-primary-super-retina .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_super_retina_startframe_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-design-primary-super-retina .mediaobject-element,.mediaobject-design-primary-super-retina .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_super_retina_startframe_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-design-primary-super-retina .mediaobject-element,.mediaobject-design-primary-super-retina .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_super_retina_startframe_small_2x.jpg"); }
+}
+.mediaobject-design-primary-gestures { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_gestures_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-design-primary-gestures { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_gestures_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-design-primary-gestures { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_gestures_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-design-primary-gestures { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_gestures_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-design-primary-gestures { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_gestures_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-design-primary-gestures { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_gestures_fallback_small_2x.jpg"); }
+}
+.mediaobject-design-primary-gestures .mediaobject-element,.mediaobject-design-primary-gestures .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_gestures_startframe_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-design-primary-gestures .mediaobject-element,.mediaobject-design-primary-gestures .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_gestures_startframe_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-design-primary-gestures .mediaobject-element,.mediaobject-design-primary-gestures .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_gestures_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-design-primary-gestures .mediaobject-element,.mediaobject-design-primary-gestures .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_gestures_startframe_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-design-primary-gestures .mediaobject-element,.mediaobject-design-primary-gestures .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_gestures_startframe_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-design-primary-gestures .mediaobject-element,.mediaobject-design-primary-gestures .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/design_gestures_startframe_small_2x.jpg"); }
+}
+.image-face-id-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_hero_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-face-id-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_hero_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-face-id-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_hero_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-face-id-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_hero_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-face-id-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_hero_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-face-id-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_hero_small_2x.jpg"); }
+}
+.image-face-id-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_hero_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-face-id-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_hero_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-face-id-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_hero_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-face-id-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_hero_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-face-id-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_hero_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-face-id-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_hero_small_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-face-id-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_hero_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-face-id-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_hero_small_2x.jpg"); }
+}
+
+.mediaobject-face-id-primary-mapping { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_mapping_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-face-id-primary-mapping { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_mapping_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-face-id-primary-mapping { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_mapping_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-face-id-primary-mapping { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_mapping_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-face-id-primary-mapping { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_mapping_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-face-id-primary-mapping { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_mapping_fallback_small_2x.jpg"); }
+}
+.mediaobject-face-id-primary-apple-pay { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_apple_pay_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-face-id-primary-apple-pay { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_apple_pay_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-face-id-primary-apple-pay { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_apple_pay_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-face-id-primary-apple-pay { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_apple_pay_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-face-id-primary-apple-pay { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_apple_pay_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-face-id-primary-apple-pay { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_apple_pay_fallback_small_2x.jpg"); }
+}
+.mediaobject-face-id-primary-apple-pay .mediaobject-element,.mediaobject-face-id-primary-apple-pay .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_apple_pay_startframe_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-face-id-primary-apple-pay .mediaobject-element,.mediaobject-face-id-primary-apple-pay .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_apple_pay_startframe_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-face-id-primary-apple-pay .mediaobject-element,.mediaobject-face-id-primary-apple-pay .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_apple_pay_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-face-id-primary-apple-pay .mediaobject-element,.mediaobject-face-id-primary-apple-pay .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_apple_pay_startframe_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-face-id-primary-apple-pay .mediaobject-element,.mediaobject-face-id-primary-apple-pay .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_apple_pay_startframe_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-face-id-primary-apple-pay .mediaobject-element,.mediaobject-face-id-primary-apple-pay .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/face_id_apple_pay_startframe_small_2x.jpg"); }
+}
+.mediaobject-face-id-modal-understands-screen { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_understands_screen_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .mediaobject-face-id-modal-understands-screen { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_understands_screen_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+    .mediaobject-face-id-modal-understands-screen { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_understands_screen_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .mediaobject-face-id-modal-understands-screen { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_understands_screen_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+    .mediaobject-face-id-modal-understands-screen { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_understands_screen_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .mediaobject-face-id-modal-understands-screen { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_understands_screen_fallback_small_2x.jpg");}
+}
+.mediaobject-face-id-modal-understands-screen .mediaobject-element,.mediaobject-face-id-modal-understands-screen .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_understands_screen_startframe_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-face-id-modal-understands-screen .mediaobject-element,.mediaobject-face-id-modal-understands-screen .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_understands_screen_startframe_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-face-id-modal-understands-screen .mediaobject-element,.mediaobject-face-id-modal-understands-screen .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_understands_screen_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-face-id-modal-understands-screen .mediaobject-element,.mediaobject-face-id-modal-understands-screen .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_understands_screen_startframe_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-face-id-modal-understands-screen .mediaobject-element,.mediaobject-face-id-modal-understands-screen .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_understands_screen_startframe_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-face-id-modal-understands-screen .mediaobject-element,.mediaobject-face-id-modal-understands-screen .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/face_id_understands_screen_startframe_small_2x.jpg"); }
+}
+.image-dual-cameras-modal-portrait-mode { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_mode_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-dual-cameras-modal-portrait-mode { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_mode_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-dual-cameras-modal-portrait-mode { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_mode_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-dual-cameras-modal-portrait-mode { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_mode_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-dual-cameras-modal-portrait-mode { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_mode_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-dual-cameras-modal-portrait-mode { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_mode_small_2x.jpg"); }
+}
+.mediaobject-dual-cameras-primary-dual-lenses { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_dual_lenses_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-dual-cameras-primary-dual-lenses { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_dual_lenses_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-dual-cameras-primary-dual-lenses { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_dual_lenses_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-dual-cameras-primary-dual-lenses { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_dual_lenses_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-dual-cameras-primary-dual-lenses { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_dual_lenses_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-dual-cameras-primary-dual-lenses { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_dual_lenses_fallback_small_2x.jpg"); }
+}
+.mediaobject-dual-cameras-primary-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_portrait_lighting_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-dual-cameras-primary-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_portrait_lighting_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-dual-cameras-primary-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_portrait_lighting_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-dual-cameras-primary-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_portrait_lighting_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-dual-cameras-primary-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_portrait_lighting_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-dual-cameras-primary-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_portrait_lighting_fallback_small_2x.jpg"); }
+}
+.mediaobject-dual-cameras-primary-portrait-lighting .mediaobject-element,.mediaobject-dual-cameras-primary-portrait-lighting .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_portrait_lighting_startframe_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-dual-cameras-primary-portrait-lighting .mediaobject-element,.mediaobject-dual-cameras-primary-portrait-lighting .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_portrait_lighting_startframe_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-dual-cameras-primary-portrait-lighting .mediaobject-element,.mediaobject-dual-cameras-primary-portrait-lighting .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_portrait_lighting_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-dual-cameras-primary-portrait-lighting .mediaobject-element,.mediaobject-dual-cameras-primary-portrait-lighting .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_portrait_lighting_startframe_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-dual-cameras-primary-portrait-lighting .mediaobject-element,.mediaobject-dual-cameras-primary-portrait-lighting .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_portrait_lighting_startframe_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-dual-cameras-primary-portrait-lighting .mediaobject-element,.mediaobject-dual-cameras-primary-portrait-lighting .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_portrait_lighting_startframe_small_2x.jpg"); }
+}
+.mediaobject-dual-cameras-modal-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_lighting_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-dual-cameras-modal-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_lighting_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-dual-cameras-modal-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_lighting_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-dual-cameras-modal-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_lighting_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-dual-cameras-modal-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_lighting_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-dual-cameras-modal-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_lighting_fallback_small_2x.jpg"); }
+}
+.mediaobject-dual-cameras-modal-portrait-lighting .mediaobject-element, .mediaobject-dual-cameras-modal-portrait-lighting .mediaobject-startframe { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_lighting_startframe_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .mediaobject-dual-cameras-modal-portrait-lighting .mediaobject-element, .mediaobject-dual-cameras-modal-portrait-lighting .mediaobject-startframe { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_lighting_startframe_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+    .mediaobject-dual-cameras-modal-portrait-lighting .mediaobject-element, .mediaobject-dual-cameras-modal-portrait-lighting .mediaobject-startframe { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_lighting_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .mediaobject-dual-cameras-modal-portrait-lighting .mediaobject-element, .mediaobject-dual-cameras-modal-portrait-lighting .mediaobject-startframe { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_lighting_startframe_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+    .mediaobject-dual-cameras-modal-portrait-lighting .mediaobject-element, .mediaobject-dual-cameras-modal-portrait-lighting .mediaobject-startframe { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_lighting_startframe_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .mediaobject-dual-cameras-modal-portrait-lighting .mediaobject-element, .mediaobject-dual-cameras-modal-portrait-lighting .mediaobject-startframe { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/dual_cameras_portrait_lighting_startframe_small_2x.jpg"); }
+}
+.image-truedepth-camera-modal-portrait-mode-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_mode_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-truedepth-camera-modal-portrait-mode-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_mode_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-truedepth-camera-modal-portrait-mode-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_mode_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-truedepth-camera-modal-portrait-mode-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_mode_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-truedepth-camera-modal-portrait-mode-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_mode_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-truedepth-camera-modal-portrait-mode-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_mode_small_2x.jpg"); }
+}
+.image-truedepth-camera-modal-animoji-screen { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_animoji_screen_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-truedepth-camera-modal-animoji-screen { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_animoji_screen_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-truedepth-camera-modal-animoji-screen { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_animoji_screen_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-truedepth-camera-modal-animoji-screen { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_animoji_screen_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-truedepth-camera-modal-animoji-screen { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_animoji_screen_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-truedepth-camera-modal-animoji-screen { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_animoji_screen_small_2x.jpg"); }
+}
+.image-truedepth-camera-modal-clips2 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_clips2_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-truedepth-camera-modal-clips2 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_clips2_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-truedepth-camera-modal-clips2 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_clips2_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-truedepth-camera-modal-clips2 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_clips2_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+    .image-truedepth-camera-modal-clips2 { background-image: url("https://images.apple.com/euro/iphone-x/a/generic/images/overview/modal/truedepth_clips2_small.jpg") }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-truedepth-camera-modal-clips2 { background-image: url("https://images.apple.com/euro/iphone-x/a/generic/images/overview/modal/truedepth_clips2_small_2x.jpg") }
+}
+.mediaobject-truedepth-camera-primary-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/truedepth_portrait_lighting_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-truedepth-camera-primary-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/truedepth_portrait_lighting_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-truedepth-camera-primary-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/truedepth_portrait_lighting_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-truedepth-camera-primary-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/truedepth_portrait_lighting_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-truedepth-camera-primary-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/truedepth_portrait_lighting_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-truedepth-camera-primary-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/truedepth_portrait_lighting_fallback_small_2x.jpg"); }
+}
+.mediaobject-truedepth-camera-primary-portrait-lighting .mediaobject-element,.mediaobject-truedepth-camera-primary-portrait-lighting .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/truedepth_portrait_lighting_startframe_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-truedepth-camera-primary-portrait-lighting .mediaobject-element,.mediaobject-truedepth-camera-primary-portrait-lighting .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/truedepth_portrait_lighting_startframe_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-truedepth-camera-primary-portrait-lighting .mediaobject-element,.mediaobject-truedepth-camera-primary-portrait-lighting .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/truedepth_portrait_lighting_startframe_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-truedepth-camera-primary-portrait-lighting .mediaobject-element,.mediaobject-truedepth-camera-primary-portrait-lighting .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/truedepth_portrait_lighting_startframe_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-truedepth-camera-primary-portrait-lighting .mediaobject-element,.mediaobject-truedepth-camera-primary-portrait-lighting .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/truedepth_portrait_lighting_startframe_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-truedepth-camera-primary-portrait-lighting .mediaobject-element,.mediaobject-truedepth-camera-primary-portrait-lighting .mediaobject-startframe { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/truedepth_portrait_lighting_startframe_small_2x.jpg"); }
+}
+.mediaobject-truedepth-camera-modal-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_lighting_fallback_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .mediaobject-truedepth-camera-modal-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_lighting_fallback_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .mediaobject-truedepth-camera-modal-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_lighting_fallback_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .mediaobject-truedepth-camera-modal-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_lighting_fallback_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .mediaobject-truedepth-camera-modal-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_lighting_fallback_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .mediaobject-truedepth-camera-modal-portrait-lighting { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_lighting_fallback_small_2x.jpg"); }
+}
+.mediaobject-truedepth-camera-modal-portrait-lighting .mediaobject-element, .mediaobject-truedepth-camera-modal-portrait-lighting .mediaobject-startframe { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_lighting_startframe_large.jpg") }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .mediaobject-truedepth-camera-modal-portrait-lighting .mediaobject-element, .mediaobject-truedepth-camera-modal-portrait-lighting .mediaobject-startframe { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_lighting_startframe_large_2x.jpg") }
+}
+@media only screen and (max-width: 1068px) {
+    .mediaobject-truedepth-camera-modal-portrait-lighting .mediaobject-element, .mediaobject-truedepth-camera-modal-portrait-lighting .mediaobject-startframe { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_lighting_startframe_medium.jpg") }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .mediaobject-truedepth-camera-modal-portrait-lighting .mediaobject-element, .mediaobject-truedepth-camera-modal-portrait-lighting .mediaobject-startframe { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_lighting_startframe_medium_2x.jpg") }
+}
+@media only screen and (max-width: 735px) {
+    .mediaobject-truedepth-camera-modal-portrait-lighting .mediaobject-element, .mediaobject-truedepth-camera-modal-portrait-lighting .mediaobject-startframe { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_lighting_startframe_small.jpg") }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .mediaobject-truedepth-camera-modal-portrait-lighting .mediaobject-element, .mediaobject-truedepth-camera-modal-portrait-lighting .mediaobject-startframe { background-image: url("https://images.apple.com/es/iphone-x/images/overview/modal/truedepth_portrait_lighting_startframe_small_2x.jpg") }
+}
+.image-a11-primary-cpu { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/a11_cpu_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-a11-primary-cpu { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/a11_cpu_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-a11-primary-cpu { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/a11_cpu_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-a11-primary-cpu { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/a11_cpu_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-a11-primary-cpu { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/a11_cpu_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-a11-primary-cpu { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/a11_cpu_small_2x.jpg"); }
+}
+.image-a11-modal-neural-is { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_is_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-a11-modal-neural-is { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_is_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-a11-modal-neural-is { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_is_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-a11-modal-neural-is { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_is_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-a11-modal-neural-is { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_is_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-a11-modal-neural-is { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_is_small_2x.jpg"); }
+}
+.image-a11-modal-neural-does { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-a11-modal-neural-does { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-a11-modal-neural-does { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-a11-modal-neural-does { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does_medium_2x.jpg"); }
+}
+.image-a11-modal-neural-does2 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does2_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-a11-modal-neural-does2 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does2_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-a11-modal-neural-does2 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does2_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-a11-modal-neural-does2 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does2_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-a11-modal-neural-does2 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does2_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-a11-modal-neural-does2 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does2_small_2x.jpg"); }
+}
+.image-a11-modal-neural-does3 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does3_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-a11-modal-neural-does3 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does3_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-a11-modal-neural-does3 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does3_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-a11-modal-neural-does3 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_neural_does3_medium_2x.jpg"); }
+}
+.image-a11-modal-messages { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_messages_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-a11-modal-messages { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_messages_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-a11-modal-messages { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_messages_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-a11-modal-messages { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_messages_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-a11-modal-messages { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_messages_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-a11-modal-messages { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/a11_messages_small_2x.jpg"); }
+}
+.image-wireless-charging-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_hero_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-wireless-charging-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_hero_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-wireless-charging-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_hero_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-wireless-charging-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_hero_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-wireless-charging-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_hero_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-wireless-charging-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_hero_small_2x.jpg"); }
+}
+.image-wireless-charging-primary-everywhere { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_everywhere_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-wireless-charging-primary-everywhere { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_everywhere_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-wireless-charging-primary-everywhere { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_everywhere_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-wireless-charging-primary-everywhere { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_everywhere_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-wireless-charging-primary-everywhere { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_everywhere_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-wireless-charging-primary-everywhere { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_everywhere_small_2x.jpg"); }
+}
+.image-wireless-charging-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_hero_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-wireless-charging-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_hero_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-wireless-charging-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_hero_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-wireless-charging-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_hero_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-wireless-charging-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_hero_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-wireless-charging-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_hero_small_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-wireless-charging-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_hero_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-wireless-charging-modal-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_hero_small_2x.jpg"); }
+}
+.image-wireless-charging-modal-everywhere { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_everywhere_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-wireless-charging-modal-everywhere { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_everywhere_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-wireless-charging-modal-everywhere { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_everywhere_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-wireless-charging-modal-everywhere { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_everywhere_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-wireless-charging-modal-everywhere { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_everywhere_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-wireless-charging-modal-everywhere { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_everywhere_small_2x.jpg"); }
+}
+.image-wireless-charging-modal-airpower { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_airpower_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-wireless-charging-modal-airpower { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_airpower_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-wireless-charging-modal-airpower { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_airpower_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-wireless-charging-modal-airpower { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_airpower_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-wireless-charging-modal-airpower { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_airpower_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-wireless-charging-modal-airpower { background-image:url("https://images.apple.com/es/iphone-x/images/overview/modal/wireless_charging_airpower_small_2x.jpg"); }
+}
+.section-wireless-charging .subsection.airpower-full .hardware::after { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_airpower_full_hardware_large.png"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .section-wireless-charging .subsection.airpower-full .hardware::after { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_airpower_full_hardware_large_2x.png"); }
+}
+@media only screen and (max-width: 1068px) {
+  .section-wireless-charging .subsection.airpower-full .hardware::after { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_airpower_full_hardware_medium.png"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .section-wireless-charging .subsection.airpower-full .hardware::after { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_airpower_full_hardware_medium_2x.png"); }
+}
+@media only screen and (max-width: 735px) {
+  .section-wireless-charging .subsection.airpower-full .hardware::after { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_airpower_full_hardware_small.png"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .section-wireless-charging .subsection.airpower-full .hardware::after { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/wireless_charging_airpower_full_hardware_small_2x.png"); }
+}
+.image-ios-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_hero_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-ios-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_hero_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-ios-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_hero_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-ios-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_hero_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-ios-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_hero_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-ios-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_hero_small_2x.jpg"); }
+}
+.image-ios-primary-design { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_design_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-ios-primary-design { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_design_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-ios-primary-design { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_design_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-ios-primary-design { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_design_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-ios-primary-design { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_design_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-ios-primary-design { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_design_small_2x.jpg"); }
+}
+.image-ios-primary-new-features { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_new_features_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-ios-primary-new-features { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_new_features_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-ios-primary-new-features { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_new_features_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-ios-primary-new-features { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_new_features_medium_2x.jpg"); }
+}
+.image-ios-primary-new-features2 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_new_features2_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-ios-primary-new-features2 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_new_features2_large_2x.jpg"); }
+}
+.image-ios-primary-new-features3 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_new_features3_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-ios-primary-new-features3 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_new_features3_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-ios-primary-new-features3 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_new_features3_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-ios-primary-new-features3 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_new_features3_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-ios-primary-new-features3 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_new_features3_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-ios-primary-new-features3 { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/ios_new_features3_small_2x.jpg"); }
+}
+.image-accessories-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/accessories_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-accessories-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/accessories_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-accessories-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/accessories_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-accessories-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/accessories_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-accessories-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/accessories_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-accessories-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/accessories_small_2x.jpg"); }
+}
+.image-compare-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/compare_footer_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .image-compare-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/compare_footer_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1068px) {
+  .image-compare-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/compare_footer_medium.jpg"); }
+}
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+  .image-compare-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/compare_footer_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 735px) {
+  .image-compare-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/compare_footer_small.jpg"); }
+}
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+  .image-compare-primary-hero { background-image:url("https://images.apple.com/es/iphone-x/images/overview/primary/compare_footer_small_2x.jpg"); }
+}
+
+.image-dual-cameras-primary-optical-zoom {
+    background-image: url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_optical_zoom_large.jpg")
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+    .image-dual-cameras-primary-optical-zoom {
+        background-image: url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_optical_zoom_large_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .image-dual-cameras-primary-optical-zoom {
+        background-image: url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_optical_zoom_medium.jpg")
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1068px) and (min-resolution: 1.5dppx), only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .image-dual-cameras-primary-optical-zoom {
+        background-image: url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_optical_zoom_medium_2x.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .image-dual-cameras-primary-optical-zoom {
+        background-image: url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_optical_zoom_small.jpg")
+    }
+}
+
+@media only screen and (max-width: 735px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 735px) and (min-resolution: 1.5dppx), only screen and (max-width: 735px) and (min-resolution: 144dpi) {
+    .image-dual-cameras-primary-optical-zoom {
+        background-image: url("https://images.apple.com/es/iphone-x/images/overview/primary/dual_cameras_optical_zoom_small_2x.jpg")
+    }
+}
+
+
+
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/ 
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+/* OVERVIEW */
+
+.section-compare a:hover .more { text-decoration: underline }
+
+.section-ios .headline-copy { 
+-webkit-hyphens: manual;
+-moz-hypens: manual;
+-ms-hyphens: manual;
+hyphens: manual
+}
+
+
+/* DESIGN */
+
+@media only screen and (max-width: 1068px) {
+    .modal-design  #gallery-gestures-control-center .media-gallery-caption {
+        width: 180px;
+    }
+}
+
+@media only screen and (max-width: 735px) {
+    .modal-design #gallery-gestures-control-center .media-gallery-caption {
+        width: 87.5%;
+    }
+}
+
+
+.hdr .icon.nowrap { display: inline; }
+
+
+/* FACE ID */
+
+
+
+
+/* TRUEDEPTH CAMERA */
+
+
+
+
+/* DUAL CAMERAS */
+
+.modal-dual-cameras .section.hero .badge-1 .badge { margin-right: 2em; }
+
+@media only screen and (max-width: 1068px) {
+    .modal-dual-cameras .section.hero .badge-1 .badge { margin-right: -4px; }
+}
+
+@media only screen and (max-width: 735px) {
+    .modal-dual-cameras .section.hero .badge-1 .badge { margin-right: 2em; }
+}
+
+
+.modal-dual-cameras .section.pro-mode .badge-3 { padding-left: 0; }
+
+
+/* A11 */
+
+.modal-a11 .section.detail .badge .badge-content { margin-top: 3.3em; }
+
+@media only screen and (max-width: 1068px) {
+    .modal-a11 .section.detail .badge .badge-content { margin-top: 3.4em; }
+}
+
+@media only screen and (max-width: 735px) {
+    .modal-a11 .section.detail .badge .badge-content { margin-top: 1em; }
+}
+
+
+.modal-a11 .section.detail .badge {
+    min-width: 11em;
+}
+
+@media only screen and (max-width: 735px) {
+    .modal-a11 .section.detail .badge {
+        min-width: 6em;
+    }
+}
+
+
+
+
+/* WIRELESS CHARGING */
+
+
+
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/ 
