@@ -20,14 +20,17 @@ function checkAge(una_edad){
   }
 }
 
-
+function pedirTexto(){
+    var texto=prompt("inserta tu nombre, por favor");
+    return texto;
+}
 
 document.write("eres un poco tonto verdad;");
 alert("mastodonte");
 
 
 
-function arriba(var name="CloseAlfa" type="number"){
+function arriba(name,type){
   if(CloseAlfa>20){
     document.write("eres un viejo");
   } else{

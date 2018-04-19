@@ -703,3 +703,32 @@
 16:58:09  [main] 	Deinitializing Modules
 16:58:09  [main] 	Deinitializing Control Panel
 
+12:11:42  [main] 	Initializing Control Panel
+12:11:42  [main] 	Windows Version:  Home  64-bit
+12:11:42  [main] 	XAMPP Version: 7.2.2
+12:11:42  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+12:11:42  [main] 	You are not running with administrator rights! This will work for
+12:11:42  [main] 	most application stuff but whenever you do something with services
+12:11:42  [main] 	there will be a security dialogue or things will break! So think 
+12:11:42  [main] 	about running this application with administrator rights!
+12:11:42  [main] 	XAMPP Installation Directory: "d:\gitkraken\mainsetup\not_hacking(yet)\xampp\"
+12:11:42  [main] 	WARNING: Your install directory contains special characters.  This may break programs/scripts
+12:11:42  [main] 	Checking for prerequisites
+12:11:50  [main] 	All prerequisites found
+12:11:50  [main] 	Initializing Modules
+12:11:50  [main] 	The FileZilla module is disabled
+12:11:50  [main] 	The Mercury module is disabled
+12:11:50  [main] 	Starting Check-Timer
+12:11:50  [main] 	Control Panel Ready
+12:11:58  [Apache] 	Attempting to start Apache app...
+12:11:59  [Apache] 	Status change detected: running
+12:12:04  [mysql] 	Attempting to start MySQL app...
+12:12:06  [mysql] 	Status change detected: running
+12:12:30  [Apache] 	Attempting to stop Apache (PID: 11084)
+12:12:30  [Apache] 	Attempting to stop Apache (PID: 5556)
+12:12:30  [Apache] 	Status change detected: stopped
+12:12:31  [mysql] 	Attempting to stop MySQL app...
+12:12:32  [mysql] 	Status change detected: stopped
+12:12:33  [main] 	Deinitializing Modules
+12:12:33  [main] 	Deinitializing Control Panel
+
